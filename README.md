@@ -67,6 +67,28 @@ A modern, responsive platform redesign focused on a polished web experience, mot
 
 > The source repositories above are currently private, so visitors may not be able to view their code. Public demos and project details are linked where available.
 
+### [ApplyIQ](https://github.com/sfisoseanzikhali-a11y/applyiq) · Private repository
+
+An AI-powered job application platform that helps users discover roles, assess matches, prepare tailored application materials, optimize CVs, and track application progress.
+
+**Built with:** Next.js, React, Supabase, AWS S3, Redis, Inngest, Jest
+
+🌐 [View the live site](https://applyiq.co.za)
+
+### [Beauty Store](https://github.com/sfisoseanzikhali-a11y/beauty-store) · Public repository
+
+A full-stack beauty storefront with account security and service integrations, deployed as a live web application.
+
+**Built with:** Next.js, React, Express, Supabase, JWT, Twilio
+
+🌐 [View the live site](https://neila-beauty-store.vercel.app)
+
+### [Skelm](https://github.com/sfisoseanzikhali-a11y/skelm) · Private repository
+
+A South African-themed social deduction party game designed for web and native mobile experiences.
+
+**Built with:** React, TypeScript, Capacitor, Supabase, Vite
+
 ## 📊 GitHub Stats
 
 <div align="center">
