@@ -83,11 +83,11 @@ A full-stack beauty storefront with account security and service integrations, d
 
 🌐 [View the live site](https://neila-beauty-store.vercel.app)
 
-### [Skelm](https://github.com/sfisoseanzikhali-a11y/skelm) · Private repository
+### [MailMind](https://github.com/sfisoseanzikhali-a11y/mailmind) · Private repository · In development
 
-A South African-themed social deduction party game designed for web and native mobile experiences.
+An email productivity application exploring AI-assisted workflows and integrations for communication, authentication, payments, and connected services.
 
-**Built with:** React, TypeScript, Capacitor, Supabase, Vite
+**Built with:** Next.js, React, TypeScript, Prisma, Supabase, Google APIs, Deepgram, Stripe, Twilio
 
 ## 📊 GitHub Stats
 
