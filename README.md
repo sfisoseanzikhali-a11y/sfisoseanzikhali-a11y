@@ -45,50 +45,29 @@ Advanced Python • Software Architecture • Automated Testing • CI/CD • AI
 
 ## 🚀 Featured Projects
 
-### [Trading Bot](https://github.com/sfisoseanzikhali-a11y/trading-bot) · Private repository
-
-An AI-assisted, paper-trading platform designed around capital preservation. It combines deterministic market analysis, centralized risk controls, backtesting, advisory machine learning, reconciliation, and an observable paper-trading runtime—without live-money execution.
-
-**Built with:** Python, FastAPI, PostgreSQL, SQLAlchemy, scikit-learn, Pytest, Docker
-
-### [NativeHeal](https://github.com/sfisoseanzikhali-a11y/NativeHeal) · Private repository
-
-A healthcare platform covering responsive user experiences and service workflows, with integrations for maps, payments, communications, and backend services.
-
-**Built with:** React, TypeScript, Vite, Tailwind CSS, Supabase, Vitest
-
-### [Afrimoola](https://github.com/sfisoseanzikhali-a11y/afrimoola) · Private repository
-
-A modern, responsive platform redesign focused on a polished web experience, motion, and a consistent African fintech-inspired visual identity.
-
-**Built with:** React, TypeScript, Vite, Tailwind CSS, Framer Motion
-
-🌐 [View the live site](https://afrimoola.vercel.app)
-
-> The source repositories above are currently private, so visitors may not be able to view their code. Public demos and project details are linked where available.
-
-### [ApplyIQ](https://github.com/sfisoseanzikhali-a11y/applyiq) · Private repository
-
-An AI-powered job application platform that helps users discover roles, assess matches, prepare tailored application materials, optimize CVs, and track application progress.
-
-**Built with:** Next.js, React, Supabase, AWS S3, Redis, Inngest, Jest
-
-🌐 [View the live site](https://applyiq.co.za)
-
 ### [Beauty Store](https://github.com/sfisoseanzikhali-a11y/beauty-store) · Public repository
 
-A full-stack beauty storefront with account security and service integrations, deployed as a live web application.
+A full-stack beauty e-commerce project with product browsing, cart and checkout flows, order management, an admin dashboard, payments, and customer notifications.
 
-**Built with:** Next.js, React, Express, Supabase, JWT, Twilio
+**Built with:** Next.js, React, Express, Supabase, JWT, PayFast, Twilio
 
 🌐 [View the live site](https://neila-beauty-store.vercel.app)
 
-### [MailMind](https://github.com/sfisoseanzikhali-a11y/mailmind) · Private repository · In development
+### [ApplyIQ](https://github.com/sfisoseanzikhali-a11y/applyiq) · Private repository · Active development
 
-An email productivity application exploring AI-assisted workflows and integrations for communication, authentication, payments, and connected services.
+An AI-assisted job application platform for CV analysis, job discovery, match scoring, tailored application materials, and application tracking.
 
-**Built with:** Next.js, React, TypeScript, Prisma, Supabase, Google APIs, Deepgram, Stripe, Twilio
+**Built with:** Next.js, React, TypeScript, Supabase, Inngest, Redis, Cloudflare R2, Jest
 
+🌐 [View the live site](https://applyiq.co.za)
+
+### [MailMind](https://github.com/sfisoseanzikhali-a11y/mailmind) · Private repository · Active development
+
+An AI-assisted email workspace that connects Gmail, helps organize messages, drafts replies, surfaces leads, and brings email, calendar, and communication workflows into one dashboard.
+
+**Built with:** Next.js, React, JavaScript, NextAuth, Google APIs, Supabase, Anthropic, Twilio
+
+> ApplyIQ and MailMind remain private while security hardening is completed.
 ## 📊 GitHub Stats
 
 <div align="center">
