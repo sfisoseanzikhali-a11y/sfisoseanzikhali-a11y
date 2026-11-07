@@ -68,13 +68,6 @@ A Python trading platform built on one rule: capital preservation first. Every t
 
 **Built with:** Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Docker, pytest, ML models (logistic regression, gradient-boosted trees), OANDA API
 
-### 🛍️ Neila Beauty Store — Full-Stack E-Commerce
-**[Code](https://github.com/sfisoseanzikhali-a11y/beauty-store)** · [Demo](https://neila-beauty-store.vercel.app)
-
-Storefront and admin system with a multi-step checkout, verified PayFast payment notifications, server-side price validation and WhatsApp order alerts.
-
-**Built with:** Next.js, React, Express, Supabase, JWT, bcrypt, PayFast, Twilio
-
 ### Upcoming projects
 
 - **ApplyIQ** — AI job application agent: finds matching roles, scores each match and writes a tailored cover letter per role. *Built, pre-launch · private repository*
