@@ -2,104 +2,88 @@
 
 # Hi, I'm Sifiso Zikhali 👋
 
-### Aspiring Software & Web Developer | Python | JavaScript | AI Enthusiast
+### Full-Stack Web Developer · Python · AI & Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sifiso-zikhali-5b1660230)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfisoseanzikhali@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sfisoseanzikhali-a11y&color=0e75b6&style=flat)
+[![Native Heal](https://img.shields.io/badge/Live-nativeheal.co.za-2E7D32?style=for-the-badge)](https://nativeheal.co.za)
 
 </div>
 
 ## 💫 About Me
 
-I'm an aspiring Software & Web Developer who enjoys turning ideas into useful digital products. I learn by building real-world projects across web development, Python, and responsible AI-assisted systems.
+I'm a full-stack developer based in Gauteng, South Africa. I build and ship real products — from a live wellness marketplace with video consultations to a risk-first algorithmic trading platform in Python.
 
-- 🔭 I'm currently building full-stack web applications, website redesigns, and Python projects.
-- 👯 I'm open to collaborating on web development, AI-powered applications, and open-source projects.
-- 🌱 I'm growing my skills in backend development, software architecture, APIs, automated testing, CI/CD, AI/ML, and cloud deployment.
-- 💬 Ask me about Python, HTML, CSS, JavaScript, web development, Git, and GitHub.
-- ⚡ I enjoy combining technology, creativity, and problem-solving.
+- 🚀 Software developer on **[Native Heal](https://nativeheal.co.za)**, a live marketplace serving 50 practitioners and 200 users.
+- 📈 Building a **Python trading platform** with deterministic backtesting and an advisory ML layer.
+- ☁️ AWS Certified Cloud Practitioner · studying IT (NQF Level 5) at Richfield.
+- 🧪 Background in QA — I care about security, reliability and things that fail safely.
+- 🤝 Open to junior roles in web development, software engineering and AI.
 
-## 💻 Focused Tech Stack
+## 💻 Tech Stack
 
-### Technologies I work with
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Currently exploring
+**Backend & Data**
 
-Advanced Python • Software Architecture • Automated Testing • CI/CD • AI/ML • Cloud Deployment
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud, DevOps & Testing**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects
 
-### [Beauty Store](https://github.com/sfisoseanzikhali-a11y/beauty-store) · Public repository
+### 🌿 Native Heal — Healing & Wellness Marketplace
+**Live at [nativeheal.co.za](https://nativeheal.co.za)** · [Project overview](https://github.com/sfisoseanzikhali-a11y/native-heal-showcase)
 
-A full-stack beauty e-commerce project with product browsing, cart and checkout flows, order management, an admin dashboard, payments, and customer notifications.
+A production marketplace connecting clients with wellness practitioners, with live video consultations, payments and location search. Hardened with a Content-Security-Policy, locked-down CORS and role- and approval-based access control.
 
-**Built with:** Next.js, React, Express, Supabase, JWT, PayFast, Twilio
+**Built with:** React, Vite, TypeScript, Supabase (PostgreSQL, Edge Functions), Daily.co, Paystack, Twilio, Google Maps, Vercel
 
-🌐 [View the live site](https://neila-beauty-store.vercel.app)
+### 📈 Risk-First Algorithmic Trading Platform
+**[Project overview](https://github.com/sfisoseanzikhali-a11y/trading-platform-showcase)** · Private code, walkthrough on request
 
-### [ApplyIQ](https://github.com/sfisoseanzikhali-a11y/applyiq) · Private repository · Active development
+A Python trading platform built on one rule: capital preservation first. Every trade passes a non-bypassable Risk Authority; backtests reuse the production code unmodified; and an advisory ML layer can veto trades but never create them.
 
-An AI-assisted job application platform for CV analysis, job discovery, match scoring, tailored application materials, and application tracking.
+**Built with:** Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Docker, pytest, ML models (logistic regression, gradient-boosted trees), OANDA API
 
-**Built with:** Next.js, React, TypeScript, Supabase, Inngest, Redis, Cloudflare R2, Jest
+### 🛍️ Neila Beauty Store — Full-Stack E-Commerce
+**[Code](https://github.com/sfisoseanzikhali-a11y/beauty-store)** · [Demo](https://neila-beauty-store.vercel.app)
 
-🌐 [View the live site](https://applyiq.co.za)
+Storefront and admin system with a multi-step checkout, verified PayFast payment notifications, server-side price validation and WhatsApp order alerts.
 
-### [MailMind](https://github.com/sfisoseanzikhali-a11y/mailmind) · Private repository · Active development
+**Built with:** Next.js, React, Express, Supabase, JWT, bcrypt, PayFast, Twilio
 
-An AI-assisted email workspace that connects Gmail, helps organize messages, drafts replies, surfaces leads, and brings email, calendar, and communication workflows into one dashboard.
+### Upcoming projects
 
-**Built with:** Next.js, React, JavaScript, NextAuth, Google APIs, Supabase, Anthropic, Twilio
-
-> ApplyIQ and MailMind remain private while security hardening is completed.
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sifiso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sfisoseanzikhali-a11y&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sfisoseanzikhali-a11y&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfisoseanzikhali-a11y&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sfisoseanzikhali-a11y&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
-</div>
-
-## ✍️ Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
+- **ApplyIQ** — AI job application agent: finds matching roles, scores each match and writes a tailored cover letter per role. *Built, pre-launch · private repository*
+- **MailMind** — AI-assisted email workspace with Gmail integration, reply drafting and lead detection. *In development · private repository*
 
 ---
 
 <div align="center">
 
-Thanks for visiting—feel free to explore my work or connect with me.
+Thanks for visiting — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sifiso-zikhali-5b1660230) or by [email](mailto:sfisoseanzikhali@gmail.com).
 
 </div>
